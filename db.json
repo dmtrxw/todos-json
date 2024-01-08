@@ -1,0 +1,34 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "title": "Todo list page",
+            "description": "Make a todo list page with HTML"
+        },
+        {
+            "id": 2,
+            "title": "Styling",
+            "description": "Styling todo list page with CSS"
+        },
+        {
+            "id": 3,
+            "title": "Todo Server",
+            "description": "Create a todo server with Node.js"
+        },
+        {
+            "id": 4,
+            "title": "Todo list React",
+            "description": "Implement React.js on todo list page"
+        },
+        {
+            "id": 5,
+            "title": "Deploy",
+            "description": "Deploy the app to any hosting platform"
+        },
+        {
+            "id": 6,
+            "title": "Promote",
+            "description": "Promote the app on Twitter"
+        }
+    ]
+}
